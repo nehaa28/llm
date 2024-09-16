@@ -11,3 +11,8 @@ https://github.com/amiradridi/Job-Resume-Matching/blob/master/services/Models%20
 <br>https://github.com/sarthakrastogi/quality-prompts
 <br>https://github.com/HarshRaoD/IntelliCheck/blob/main/src/demo.ipynb
 <br>
+<br>
+<br>
+<br>
+<br>https://www.linkedin.com/posts/abhishek-m-ghoshal_recently-i-completed-two-rounds-of-technical-activity-7241241220172177408-lE-k?utm_source=share&utm_medium=member_desktop
+<br>
